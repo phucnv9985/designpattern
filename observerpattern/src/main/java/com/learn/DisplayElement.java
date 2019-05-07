@@ -1,4 +1,4 @@
-package com.lear;
+package com.learn;
 
 public interface DisplayElement {
     void display();
